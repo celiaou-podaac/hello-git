@@ -2,4 +2,6 @@ Hello Git!
 This is my first file in this project.
 
 Let's make some more changes and try to push to remote branch: bigger-branch.
-Let's grow an avocado tree. They occupy a large spot of land when fully grown and need lots of care to yield good fruit. When harvest comes, you'll be scrambling to give the fruit away to everyone you know.
+Let's grow an avocado tree. They occupy a large spot in one's yard or garden when fully grown and need lots of care to yield good fruit. When harvest comes, you'll be scrambling to give the fruit away to everyone you know.
+
+For the second commit of changes to bigger-branch, let's write about mango trees. Similar to the avocado tree, a mango tree will grow large and produce large quantities of fruit that overwhelm the tree owner. The family member, friend, or neighbor who distributes their mangoes freely and cheerily each season is well-loved.
