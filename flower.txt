@@ -2,3 +2,5 @@ camellia
 rose
 hydrangea
 jasmine
+sunflower
+cosmos
