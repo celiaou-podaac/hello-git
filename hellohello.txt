@@ -1,4 +1,4 @@
-Hello Git!
+Hello Git! More greetings from main - will this merge correctly with bigger-branch?
 This is my first file in this project.
 
 Let's grow an avocado tree. They are very big, take up lots of space, and need lots of care to yield good fruit.
