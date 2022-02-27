@@ -1,4 +1,5 @@
 Hello Git!
 This is my first file in this project.
 
-Let's grow an avocado tree. They are very big, take up lots of space, and need lots of care to yield good fruit.
+Let's make some more changes and try to push to remote branch: bigger-branch.
+Let's grow an avocado tree. They occupy a large spot of land when fully grown and need lots of care to yield good fruit. When harvest comes, you'll be scrambling to give the fruit away to everyone you know.
